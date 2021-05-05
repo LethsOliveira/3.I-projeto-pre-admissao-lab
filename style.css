@@ -1,0 +1,44 @@
+
+body {
+    background-image: url(https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/06/idles-banda-barcelona.jpg);
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    text-align: center;
+    block-size: auto;
+    background-size: 200vh;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 60px;
+    color: red;
+    text-align: center;
+}
+
+.acertos {
+    color: white;
+    border: 10px solid pink;
+    padding-left: 200px;
+    padding-top: 100px;
+    padding-right: 200px;
+    padding-bottom: 200px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.erros {
+    color:white;
+    border: 10px solid pink;
+    padding-top:100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 200px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    display: inline-block;
+}
